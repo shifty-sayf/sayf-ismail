@@ -1,7 +1,7 @@
 # 👨🏽‍💻 Sayf Ismail - Software Development Adventurer 🧭
 ***
 
-Hello! I'm a Software Developer slash former Mechanical Engineer, Project Manager and Finance weirdo.
+Hello! I'm a Software Developer / former Mechanical Engineer / Project Manager / Scrum Master and I love to code.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayf-ismail/)](https://www.linkedin.com/in/sayf-ismail/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sayfti@gmail.com)](mailto:sayfti@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+60126633730&text=Olá!)](https://api.whatsapp.com/send?phone=+60126633730&text=Olá!)
 
