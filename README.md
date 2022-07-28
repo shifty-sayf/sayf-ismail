@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Sayf Ismail - Software Development Adventurer 🧭
+# 👨🏽‍💻 Sayf - Software Development Adventurer 🧭
 ***
 
 Hello! I'm a Software Developer / Project Manager and I love to code.
